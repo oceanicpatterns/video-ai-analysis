@@ -10,7 +10,7 @@ source .venv/bin/activate
 Step 3.
 pip freeze > requirements.txt
 
-Run (install from) the requirements file
-'
+Step 3.
+Install from the requirements file
+
 pip install -r requirements.txt
-'

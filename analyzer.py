@@ -64,7 +64,7 @@ class VideoAnalyzer:
                 break
             
             frame_count += 1
-            if frame_count % fps != 0:  # Process one frame per second
+            if frame_count % fps != 0:
                 continue
             
             detections, scene = self.analyze_frame(frame)
