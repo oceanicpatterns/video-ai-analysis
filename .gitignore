@@ -1,1 +1,4 @@
 .venv/
+_do_not_use*
+*__pycache__*
+TODO.txt

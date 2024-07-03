@@ -14,3 +14,6 @@ Step 3.
 Install from the requirements file
 
 pip install -r requirements.txt
+
+
+The code captures video frames, processes them to detect pose landmarks using MediaPipe, classifies swimming strokes, analyzes swimming techniques, and generates a PDF report with the analysis results. The report includes detected strokes, technique feedback, and detected equipment.

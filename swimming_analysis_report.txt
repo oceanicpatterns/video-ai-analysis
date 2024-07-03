@@ -1,0 +1,70 @@
+Swimming Performance Analysis Report
+Athlete: [Name]
+Date: July 02, 2024
+
+Executive Summary:
+The analysis reveals an average body angle deviation of 0.0 degrees from horizontal across all strokes.
+This indicates a need for focused improvement in maintaining a streamlined position.
+
+Stroke-specific Analysis:
+
+Breaststroke (from 3629-172488406_small.mp4):
+Areas for Improvement:
+- Improve body position: Your body is at a 16.8 degree angle. Aim for
+  a more horizontal position
+- Improve body position: Your body is at a 15.6 degree angle. Aim for
+  a more horizontal position
+- Improve timing: Coordinate your arm pull and leg kick for better
+  propulsion
+- Improve your catch: Keep your elbow high during the pull phase for
+  better propulsion
+- Increase body rotation: Rotate your body more with each stroke for
+  better efficiency
+
+Strengths:
+- Good timing: Your arm pull and leg kick are well-coordinated
+- Good kick width: Your knees are at an appropriate width for an
+  efficient breaststroke kick
+- Efficient pull: Your arm pull is appropriately narrow
+- Efficient glide: You're maintaining a good streamline position
+  during the glide phase
+- Good arm recovery: Your elbows are positioned correctly during the
+  recovery phase
+--------------------------------------------------
+--------------------------------------------------
+
+Freestyle (from 172685-849651725_small.mp4):
+Areas for Improvement:
+- Improve body position: Your body is at a 31.9 degree angle. Aim for
+  a more horizontal position
+- Improve body position: Your body is at a 42.1 degree angle. Aim for
+  a more horizontal position
+- Improve body position: Your body is at a 47.9 degree angle. Aim for
+  a more horizontal position
+- Improve body position: Your body is at a 53.0 degree angle. Aim for
+  a more horizontal position
+- Improve body position: Your body is at a 55.5 degree angle. Aim for
+  a more horizontal position
+
+Strengths:
+- Good timing: Your arm pull and leg kick are well-coordinated
+- Good kick width: Your knees are at an appropriate width for an
+  efficient breaststroke kick
+- Efficient pull: Your arm pull is appropriately narrow
+- Efficient glide: You're maintaining a good streamline position
+  during the glide phase
+- Good arm recovery: Your elbows are positioned correctly during the
+  recovery phase
+--------------------------------------------------
+--------------------------------------------------
+
+Overall Recommendations:
+1. Focus on core strength and body awareness exercises to improve overall body alignment
+2. Practice stroke-specific drills to address individual technique issues
+3. Utilize underwater video analysis for visual feedback on body position
+4. Work with a coach on mental cues for maintaining proper alignment during swims
+
+Next Steps:
+1. Develop a targeted training plan addressing key areas for improvement
+2. Schedule follow-up analysis in 3 months to assess progress
+3. Consider additional equipment like alignment boards or snorkels for technique work
