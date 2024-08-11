@@ -1,6 +1,6 @@
 Swimming Performance Analysis Report
 Athlete: [Name]
-Date: July 02, 2024
+Date: August 11, 2024
 
 Executive Summary:
 The analysis reveals an average body angle deviation of 0.0 degrees from horizontal across all strokes.
@@ -20,31 +20,6 @@ Areas for Improvement:
   better propulsion
 - Increase body rotation: Rotate your body more with each stroke for
   better efficiency
-
-Strengths:
-- Good timing: Your arm pull and leg kick are well-coordinated
-- Good kick width: Your knees are at an appropriate width for an
-  efficient breaststroke kick
-- Efficient pull: Your arm pull is appropriately narrow
-- Efficient glide: You're maintaining a good streamline position
-  during the glide phase
-- Good arm recovery: Your elbows are positioned correctly during the
-  recovery phase
---------------------------------------------------
---------------------------------------------------
-
-Freestyle (from 172685-849651725_small.mp4):
-Areas for Improvement:
-- Improve body position: Your body is at a 31.9 degree angle. Aim for
-  a more horizontal position
-- Improve body position: Your body is at a 42.1 degree angle. Aim for
-  a more horizontal position
-- Improve body position: Your body is at a 47.9 degree angle. Aim for
-  a more horizontal position
-- Improve body position: Your body is at a 53.0 degree angle. Aim for
-  a more horizontal position
-- Improve body position: Your body is at a 55.5 degree angle. Aim for
-  a more horizontal position
 
 Strengths:
 - Good timing: Your arm pull and leg kick are well-coordinated
